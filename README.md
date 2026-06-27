@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="Yhttps://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZyeGpieWFrZnRxZHI3Y3N6aWVtc2l4anRqa2xjb3g3eDk1Y2V1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif" width="600">
+  <img src="https://raw.githubusercontent.com/duldikadadigamuwa/duldikadadigamuwa/main/8bit%20GIF.gif" alt="Pixel Animation" width="600">
 </p>
 
 
